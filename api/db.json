@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Alex",
+      "description": "Simon Ken",
+      "userId": "118096107299701288550",
+      "id": 1
+    },
+    {
+      "title": "Simon",
+      "description": "Ken Alex",
+      "userId": "118096107299701288550",
+      "id": 2
+    },
+    {
+      "title": "Ken",
+      "description": "Alex Simon",
+      "userId": "118096107299701288550",
+      "id": 3
+    }
+  ]
+}
